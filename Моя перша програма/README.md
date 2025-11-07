@@ -1,4 +1,5 @@
-![alt text](logo-lit.jpg)
+![logo-lit](https://github.com/user-attachments/assets/313989ea-9afa-4d41-b96b-ac97cdb48700)
+
 
 Тема: Оформлення робіт та перша програма
 
