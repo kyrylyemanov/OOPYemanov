@@ -1,5 +1,5 @@
 
-https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg
+[https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg)
 
 Тема: Основи програмування на Python
 
@@ -35,5 +35,6 @@ Python-файл lab4_Yemanov.py, у якому продемонстровано 
 4.Обробляти помилки під час виконання
 5.Працювати з файлами у Python
 6.Використовувати лямбда-функції
+
 
 ![alt text](image.png)
