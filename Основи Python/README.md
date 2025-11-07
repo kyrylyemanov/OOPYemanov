@@ -1,5 +1,5 @@
 
-[https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg)
+https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg
 
 Тема: Основи програмування на Python
 
@@ -38,3 +38,4 @@ Python-файл lab4_Yemanov.py, у якому продемонстровано 
 
 
 ![alt text](image.png)
+
