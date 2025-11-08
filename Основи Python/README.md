@@ -1,5 +1,5 @@
 
-https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg
+![alt text](logo-lit.jpg)
 
 Тема: Основи програмування на Python
 
