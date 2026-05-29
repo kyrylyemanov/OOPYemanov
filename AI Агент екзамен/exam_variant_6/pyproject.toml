@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "library-catalog-agent"
+version = "1.0.0"
+description = "AI Agent for Library Catalog Management - OOP Exam Variant 6"
+authors = ["Yemanov <student@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+google-genai = "^0.3.0"
+python-dotenv = "^1.0.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.0"
+black = "^23.0.0"
+pylint = "^2.17.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
